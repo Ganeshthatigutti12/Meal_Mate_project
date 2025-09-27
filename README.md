@@ -9,9 +9,9 @@ Admin: Add/edit/delete food items, view customers.
 Customer: Register/login, browse menu, manage cart, place orders.
 
 **Upcoming Enhancements**
-Real-time order tracking
-Delivery partner panel
-Payment integration
+1.Real-time order tracking
+2.Delivery partner panel
+3.Payment integration
 
 **Challenges & Solutions**
 Securing user access: solved using Django’s authentication system.
